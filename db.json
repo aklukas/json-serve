@@ -1,4 +1,51 @@
-
 {
-
+  "coffee": [
+    {
+      "id": 0,
+      "name": "Colombia Sur Del Huila",
+      "notes": [
+        "Pepper",
+        "Cola",
+        "Molasses"
+      ],
+      "body": "Medium",
+      "acidity": "Low",
+      "region": [
+        "Acevedo"
+      ],
+      "farm": "Various",
+      "variety": [
+        "Caturra",
+        "Colombia",
+        "Tabi",
+        "Castillo",
+        "F6"
+      ],
+      "altitude": "1250-2000 Meters",
+      "productionMethod": "Washed"
+    },
+    {
+      "id": 1,
+      "name": "Costa Rica La Trinidad",
+      "notes": [
+        "Dates",
+        "Chocolate",
+        "Buttered Rum"
+      ],
+      "body": "Low",
+      "acidity": "Med-Low",
+      "region": [
+        "San Martin De Leon Cortes",
+        "San Jose",
+        "Costa Rica"
+      ],
+      "farm": "Finca La Manzana",
+      "variety": [
+        "Caturra",
+        "Catuai"
+      ],
+      "altitude": "1800 Meters",
+      "productionMethod": "Fully Washed"
+    }
+  ]
 }
